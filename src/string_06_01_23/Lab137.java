@@ -17,7 +17,6 @@ public class Lab137 {
         }
 
 
-
     }
 
     static boolean ispalindrome(String userinput){
